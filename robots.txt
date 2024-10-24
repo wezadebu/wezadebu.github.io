@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://wezadebu.github.io/sitemap/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/HZT/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/hml/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/CYM/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/gJR/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/OIY/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/ICM/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/wBp/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/sQE/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/UIb/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/ZTU/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/lbY/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/LiY/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/gYi/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/jZJ/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/fEi/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/WQU/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/UlV/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/XAN/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/YOp/sitemap_index.wezadebu
+Sitemap: https://wezadebu.github.io/CVp/sitemap_index.wezadebu
